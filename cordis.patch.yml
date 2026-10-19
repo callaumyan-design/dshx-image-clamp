@@ -1,0 +1,6 @@
+﻿- insert:
+    - id: dshx-image-clamp
+      name: dshx-image-clamp
+      config:
+        maxSide: 2000
+        maxBytes: 184320
